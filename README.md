@@ -1,22 +1,3 @@
-# 
-
-<br>
-<br>
-<br>
-
-
->Avocado : 체력 1 회복
->Banana : 이동속도 1 증가
-
-Stage 1
->Apple : 100점
-><br>
->Green Apple : 120점
-><br>
->Yellow Apple : 150점
-
-Stage 2
-
 # CatchFruit
 
 ### 개요
